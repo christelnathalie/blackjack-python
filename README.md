@@ -1,37 +1,40 @@
-# 🃏 Projet Blackjack - Python
+# 🃏 Blackjack Project - Python
 
-Bienvenue dans mon tout premier **capstone project** réalisé en Python : un jeu de **Blackjack** en ligne de commande !
+Welcome to my very first **capstone project** built in Python: a **command-line Blackjack game**!
 
-## 🎮 Objectif
+You can play directly in your browser here:  
+👉 [Play on Replit](https://replit.com/@christelclerc/blackjack-python)
 
-Le but du jeu est de battre l'ordinateur en atteignant **21 points** ou en s'en approchant le plus possible, sans dépasser.
+## 🎮 Objective
 
-Tu peux :
-- **Tirer une carte** ou **passer ton tour**
-- L’As compte pour **11** ou **1** selon ton score
-- Le jeu reconnaît les **Blackjacks naturels**
-- L'ordinateur **tire automatiquement** jusqu’à atteindre au moins 17
+The goal of the game is to beat the computer by getting as close as possible to **21 points**, without going over.
 
-## 💻 Fonctionnalités
+You can:
+- **Draw a card** or **pass your turn**
+- Aces count as **11 or 1** depending on your score
+- The game detects **natural Blackjacks**
+- The computer **automatically draws** until it reaches at least 17
 
-- Distribution automatique de cartes
-- Gestion des **As (11 ou 1)**
-- Calcul de score en temps réel
-- Messages dynamiques selon le résultat
-- Option pour **rejouer autant de fois que tu veux**
-- Affichage clair des scores
+## 💻 Features
 
-## 🧠 Ce que j’ai appris
+- Automatic card distribution
+- Ace handling (**11 or 1**)
+- Real-time score calculation
+- Dynamic result messages
+- Option to **replay as many times as you want**
+- Clear display of player and computer scores
 
-- Manipulation de listes
-- Fonctions (`def`, `return`)
-- Boucles `while` et logique conditionnelle
-- Interactions utilisateur avec `input()`
-- Réflexion algorithmique (gestion des As, conditions de victoire, etc.)
+## 🧠 What I Learned
 
-## 🚀 Lancer le jeu
+- List manipulation
+- Functions (`def`, `return`)
+- `while` loops and conditional logic
+- User interaction using `input()`
+- Algorithmic thinking (Ace logic, win conditions, etc.)
 
-1. Cloner ce dépôt :
+## 🚀 Run the Game
+
+1. Clone this repository:
    ```bash
-   git clone https://github.com/ton-profil/blackjack-python.git
+   git clone https://github.com/your-username/blackjack-python.git
    cd blackjack-python
